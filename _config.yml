@@ -9,7 +9,7 @@ baseurl:          /scribble
 
 links:
   - name:         About
-    url:          /about
+    url:          /
   - name:         Blog
     url:          /blog
     external:     false
